@@ -11,3 +11,4 @@ Notes and usage details for site-performance-tracker.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
