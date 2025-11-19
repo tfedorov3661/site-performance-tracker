@@ -21,3 +21,4 @@ Notes and usage details for site-performance-tracker.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
