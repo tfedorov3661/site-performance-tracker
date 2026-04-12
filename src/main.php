@@ -34,3 +34,4 @@ Allows you to detect and track site performance metrics
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
 // drop an unused branch
+// drop an unused branch
